@@ -9,9 +9,9 @@
 </p>
 <p align="center">
 <a href="https://github.com/ekadanuarta/followers"><img title="Followers" src="https://img.shields.io/github/followers/ekadanuaeta?color=red&style=flat-square"></a>
-<a href="https://github.com/vall29/Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ekadanuarta/Api?color=blue&style=flat-square"></a>
+<a href="https://github.com/ekadanuarta/Api/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ekadanuarta/Api?color=blue&style=flat-square"></a>
 <a href="https://github.com/ekadanuarta/Api/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ekadanuarta/Api?color=red&style=flat-square"></a>
-<a href="https://github.com/vall29/Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ekadanuarta/Api?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/ekadanuarta/Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ekadanuarta/Api?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
    <a href="https://wa.me/6288221400832"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
