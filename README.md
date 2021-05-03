@@ -17,4 +17,4 @@
    <a href="https://wa.me/6288221400832"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
    <a href="https://instagram.com/ekagans_02"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
-### Hati-hati karena salah sedikit langsung eror :v
+## Hati-hati, karena salah sedikit langsung eror :v
