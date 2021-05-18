@@ -1,5 +1,16 @@
 
 <!doctype html>
+render_board();
+</script>
+  
+  <script type="text/javascript">
+	$.getJSON("https://api.countapi.xyz/hit/kagurachan.herokuapp/visits", function(data) {
+    	$("#visitorJarAPI").text(data.value);
+	});
+</script>
+<script>
+	window.setTimeout("getip()",1000);function getip(){var xhr=new XMLHttpRequest();var url='https://api.xteam.xyz/cekip';xhr.onloadend=function(){data=JSON.parse(this.responseText);document.getElementById("ipanda").textContent=data.response
+document.getElementById("userhit").textContent=data.userhit};xhr.open("GET",url,true);xhr.send();}
 </script>
 	<script>
   swal("Halo Stah", "Jangan Bully Aku:(", "warning");
@@ -9,4 +20,3 @@
 </body>
 
 </html>
-© 2021 GitHub, Inc.
